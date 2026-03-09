@@ -1,0 +1,5 @@
+{
+  "name": "Real Estate Starter Platform",
+  "description": "A modern real estate platform with public listings and an admin dashboard for property, lead, and agent management.",
+  "requestFramePermissions": []
+}
